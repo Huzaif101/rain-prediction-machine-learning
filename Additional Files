@@ -1,1 +1,9 @@
+requirements :
+pandas
+numpy
+scikit-learn
+jupyter
+
+
+
 
