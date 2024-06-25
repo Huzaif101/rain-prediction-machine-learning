@@ -1,0 +1,10 @@
+weather-prediction-models/
+│
+├── data/
+│   └── weather_data.csv
+├── notebooks/
+│   └── weather_prediction.ipynb
+├── .gitignore
+├── LICENSE
+├── README.md
+├── requirements.txt
